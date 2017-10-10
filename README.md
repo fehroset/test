@@ -1,3 +1,3 @@
-Link para MEGA pasta		
+Link para MEGA pasta
 
-<a href=" https://mega.co.nz/#F!BcFh0DgT!FAwh-nInFhRgvuQHXV68EA">MEGA</a>
+<a href="https://mega.co.nz/#F!BcFh0DgT!FAwh-nInFhRgvuQHXV68EA">MEGA</a>
