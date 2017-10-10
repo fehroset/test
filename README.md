@@ -1,3 +1,9 @@
-Link para MEGA pasta
+<h1>Read me</h1>
 
-<a href="https://mega.co.nz/#F!BcFh0DgT!FAwh-nInFhRgvuQHXV68EA">MEGA</a>
+Arc icon theme
+Papirus icon theme
+
+
+darkcold theme gtk
+
+windows7 cursor theme
