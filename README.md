@@ -1,6 +1,6 @@
-###Read me
+### Read me
 
-Arc icon theme
+Arc icon theme\
 Papirus icon theme
 
 
